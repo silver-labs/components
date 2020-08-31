@@ -23,7 +23,8 @@
   },
   "publishConfig": {
     "tag": "latest",
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "ncains@allegisgroup.com",
   "license": "MIT",
