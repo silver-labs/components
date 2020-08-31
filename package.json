@@ -1,6 +1,6 @@
 {
-  "name": "@webex/components",
-  "version": "1.44.1",
+  "name": "@silver-labs/webex-components",
+  "version": "1.44.2",
   "browser": "dist/umd/webex-components.umd.min.js",
   "unpkg": "dist/umd/webex-components.umd.min.js",
   "module": "dist/es/webex-components.es.min.js",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webex/components.git"
+    "url": "https://github.com/silver-labs/webex-components.git"
   },
   "publishConfig": {
     "tag": "latest",
     "access": "public"
   },
-  "author": "devsupport@webex.com",
+  "author": "ncains@allegisgroup.com",
   "license": "MIT",
   "files": [
     "dist/**/*"
