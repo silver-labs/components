@@ -24,7 +24,7 @@
   "publishConfig": {
     "tag": "latest",
     "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "ncains@allegisgroup.com",
   "license": "MIT",
